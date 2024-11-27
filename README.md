@@ -16,7 +16,7 @@ This repository contains the code and assets for my personal portfolio website, 
 
 ---
 
-## 📖 Technologies Used
+## 📖 Technologies I'm Using
 
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Django, Node.js
